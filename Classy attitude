@@ -1,0 +1,18 @@
+
+# This file is a part of < https://github.com/classy love/classy/ >
+# PLease read the GNU Affero General Public License in
+# <https://www.github.com/classy love/classy love/blob/main/LICENSE/>.
+
+"""
+✘ Commands Available -
+• `{i}afk <optional reason>`
+    AFK means away from keyboard,
+    After u active this if Someone tag or msg u then It auto Reply Him/her,
+    (Note : By Reply To any media U can set media afk too).
+"""
+
+import asyncio
+
+from pyclassylove.functions.afk_db import *
+from pyclassylove.functions.pmpermit_db import *
+from telegraph import upload_file a
